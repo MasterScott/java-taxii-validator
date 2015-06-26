@@ -1,0 +1,1 @@
+web: build/install/java-taxii-validator/bin/java-taxii-validator
