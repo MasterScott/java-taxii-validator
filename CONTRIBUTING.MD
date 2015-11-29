@@ -1,6 +1,6 @@
 # Contributing to java-taxii
 
-We'd welcome you contributing to java-taxii-validator. Here are the guidelines to follow:
+We welcome you contributing to java-taxii-validator. Here are the guidelines:
 
  - [Code of Conduct](#code_of_conduct)
  - [Question or Problem?](#question)
@@ -12,7 +12,7 @@ We'd welcome you contributing to java-taxii-validator. Here are the guidelines t
 Help us keep java-taxii-validator open and inclusive.
 
 ## <a name="question"></a> Got a Question or Problem?
-If you have questions about how to use java-taxii-validator, please direct these to the [TAXII discussion list][list].
+If you have questions about how to use java-taxii-validator, please direct these to taxii@mitre.org.
 
 ## <a name="issue"></a> Found an Issue?
 If you find a bug in the source code or a mistake in the documentation, you can help us by submitting an issue to our [GitHub Repository][github]. Please see the Submission Guidelines below.
@@ -22,7 +22,7 @@ You can request a new feature by submitting an issue to our [GitHub Repository][
 
 If you would like to implement a new feature on your own, then consider the change's scope:
 
-* **Major Changes** should be discussed first on our [TAXII discussion list][list] so that we can better coordinate our efforts, prevent duplication of work, and help you to craft the change so that it is successfully accepted into the project.
+* **Major Changes** should be discussed with us first at taxii@mitre.org so that we can better coordinate our efforts, prevent duplication of work, and help you to craft the change so that it is successfully accepted into the project.
 * **Small Changes** can be crafted and submitted to the [GitHub Repository][github] as a Pull Request.
 
 ## <a name="docs"></a> Want a Documentation Fix?
@@ -106,7 +106,7 @@ from the main (upstream) repository:
     git pull --ff upstream master
     ```
 
-[list]: https://taxii.mitre.org/community/registration.html
+[contact]: taxii@mitre.org
 [github]: https://github.com/TAXIIProject/java-taxii-validator
 [issues]: https://github.com/TAXIIProject/java-taxii-validator/issues
 [pulls]: https://github.com/TAXIIProject/java-taxii-validator/pulls
